@@ -17,8 +17,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
+Developed by: M.Jayachandran
+RegisterNumber: 22008847
 */
 ```
 ```
@@ -45,7 +45,10 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]("/images/gaussian.png")
+
+![gaussian](https://user-images.githubusercontent.com/118447015/212352434-6e7e4e1d-6e97-408b-9db3-8c81c245121e.png)
+
+
 
 
 ## Result:
